@@ -474,7 +474,7 @@ img {
   position: relative;
   display: block;
   height: 100%;
-  width: 80%;
+  width: 95%;
   border-radius: 1rem;
   background-color: var(--first-color);
 }
@@ -484,29 +484,29 @@ img {
 }
 
 .skill__per.javascript {
-  width: 80%;
+  width: 90%;
 }
 
 .skill__per.bootstrap {
-  width: 75%;
+  width: 90%;
 }
 .skill__per.nodejs {
-  width: 60%;
-}
-.skill__per.expressjs {
-  width: 60%;
-}
-.skill__per.react {
   width: 70%;
 }
+.skill__per.expressjs {
+  width: 70%;
+}
+.skill__per.react {
+  width: 90%;
+}
 .skill__per.mongodb {
-  width: 65%;
+  width: 85%;
 }
 .skill__per.mysql {
-  width: 60%;
+  width: 80%;
 }
 .skill__per.java {
-  width: 50%;
+  width: 80%;
 }
 
 .skills__group {
